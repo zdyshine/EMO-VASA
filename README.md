@@ -2,6 +2,10 @@
 
 加大数据训练中,代码近期发布
 
+
+https://github.com/user-attachments/assets/f7350bf9-a93f-49d0-b9a4-0f6e38d0a902
+
+
 ## coce list
 
 ```
